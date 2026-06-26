@@ -15,3 +15,11 @@ git branch -d feature/sever-file-create (feature/server-file-create is the branc
 
 # to switch branch
 git checkout main (main is the branch name)
+
+# pull online changes to local branch (main)
+git pull origin main
+
+# to merge feature branch to main branch
+# before this command checkout to main 
+git merge feature/server-file-create
+
