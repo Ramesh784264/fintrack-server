@@ -11,7 +11,7 @@ git push origin main (main is the branch name)
 git checkout -b feature/server-file-create (feature/server-file-create is the branch name)
 
 # to delete a local branch 
-git branch -d feature/sever-file-create (feature/server-file-create is the branch name)
+git branch -d feature/server-file-create (feature/server-file-create is the branch name)
 
 # to switch branch
 git checkout main (main is the branch name)
